@@ -1,4 +1,4 @@
-#speech-input
+# speech-input
 Speech input provides a simple function to get an input from speech. It works like the buildin input function.
 Under the hood it is just a speechrecognition wrapper using the Google speech recognizer.
 
@@ -8,15 +8,15 @@ To obtain your own API key, simply follow the steps on the API Keys page at the 
 
 You can specify a language with the speech_input function. Default is "en-US".
 
-##Prerequisites:
+## Prerequisites:
 `pip install speechrecognition`
 
 `pip install pyaudio`
 
-##Installation:
+## Installation:
 `pip install speechinput`
 
-##Code:
+## Code:
 import speechinput as si
 ```
 # Set google speech key
