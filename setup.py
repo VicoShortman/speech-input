@@ -14,7 +14,7 @@ setup(
     description='Speech input provides a simple function to get an input from speech. It works like the buildin input function.',
     long_description=open('README.txt').read() + '\n\n' +
     open('CHANGELOG.txt').read(),
-    url='https://github.com/VicoShortman',
+    url='https://github.com/VicoShortman/speech-input',
     author='Vico Shortman',
     author_email='vico.shortman@gmail.com',
     license='MIT',
